@@ -1,0 +1,60 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Minnesota: 200 anglers rescued from broken ice chunk",
+    "description": "The ice broke on Upper Red Lake, a popular ice fishing destination in the state of Minnesota.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63736491",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1C8F/production/_127811370_317478565_444297647879822_5864627617359909596_n.jpg",
+    "publishedAt": "2022-11-28T23:22:17.4678168Z",
+    "content": "Around 200 people have been rescued after they were stranded on a large chunk of ice that broke away in a Minnesota lake.\r\nThe local sheriff's office said the people adrift on Upper Red Lake in north… [+1931 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "China Covid: Heavy police presence after days of protests",
+    "description": "Demonstrations over Covid restrictions that erupted at the weekend now appear to have died down.",
+    "url": "http://www.bbc.co.uk/news/world-asia-china-63785351",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D14/production/_127808927_70f13a8e59820a42c8e28f726813ffb2d6c21e0d0_0_3895_21911000x563.jpg",
+    "publishedAt": "2022-11-28T17:37:20.0545224Z",
+    "content": "Protests against Covid restrictions which erupted over the weekend appear to have died down, as a heavy police presence is reported in Chinese cities.\r\nLarge barriers have gone up along the main prot… [+3022 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Buffalo shooting: Gunman pleads guilty to murder and terrorism charges",
+    "description": "It means he will be sentenced to life in prison without parole for the shooting that left 10 dead.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63786445",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1185A/production/_125007717_feec59b0-9542-4d43-bd56-bff70c2aa115.jpg",
+    "publishedAt": "2022-11-28T17:07:21.164229Z",
+    "content": "A white gunman who shot and killed 10 people in a racially motivated attack in Buffalo, New York has pleaded guilty to murder and terrorism charges.\r\nThe plea means he will be sentenced to life in pr… [+1353 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mauna Loa: World's largest active volcano erupts in Hawaii",
+    "description": "An ashfall advisory is in effect for nearby areas and residents have been told to remain vigilant.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63783633",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58DE/production/_127805722_fiphiv6ayaa3bir.jpg",
+    "publishedAt": "2022-11-28T13:52:20.8350345Z",
+    "content": "The world's largest active volcano, Hawaii's Mauna Loa, is erupting for the first time in almost 40 years.\r\n\"Lava flows are contained within the summit area and are not threatening downslope communit… [+1191 chars]"
+    }
+    ]
+    }
+    
